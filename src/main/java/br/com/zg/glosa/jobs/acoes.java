@@ -1,6 +1,5 @@
-package br.com.zg.glosa.BuscarArquivo;
+package br.com.zg.glosa.jobs;
 
-import br.com.zg.glosa.AbrirURL.AbrirConvenio;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -8,8 +7,8 @@ import org.openqa.selenium.WebElement;
 import java.util.List;
 
 public class acoes {
-    private static String NAVEGADOR = "chrome";
-    private WebDriver driverWeb = AbrirConvenio.getURL(NAVEGADOR);
+
+    private WebDriver driverWeb = AbrirConvenio.getURL();
 
     public void clicar(By by) {
         driverWeb.findElement(by).click();

@@ -1,4 +1,4 @@
-package br.com.zg.glosa.AbrirURL;
+package br.com.zg.glosa.jobs;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -12,7 +12,7 @@ public class AbrirConvenio {
     private static WebDriver driverWeb;
     public static ChromeOptions chromeOptions = new ChromeOptions();
 
-    public static WebDriver getURL(String navegador) {
+    public static WebDriver getURL() {
 
         if (driverWeb == null){
             CreateDriverWebChrome();
@@ -30,8 +30,8 @@ public class AbrirConvenio {
 
     public static void buscarURL(){
         driverWeb.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-        //driverWeb.get("https://glosamax.zeroglosa.com.br/glosamax/arquivo/index");
-        //driverWeb.get("https://glosamin.zeroglosa.com.br/glosamin/arquivo");
-        driverWeb.get("https://pagatudo.zeroglosa.com.br/pagatudo/arquivo/index");
+        //driverWeb.get("https://glosamax.zeroglosa.com.br/glosamax/arquivo/index");//arquivos xml
+        //driverWeb.get("https://glosamin.zeroglosa.com.br/glosamin/arquivo");//arquivos html
+        driverWeb.get("https://pagatudo.zeroglosa.com.br/pagatudo/arquivo/index");//arquivos csv
     }
 }

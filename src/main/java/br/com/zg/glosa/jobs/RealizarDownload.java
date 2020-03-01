@@ -1,14 +1,13 @@
-package br.com.zg.glosa.BuscarArquivo;
+package br.com.zg.glosa.jobs;
 
-import br.com.zg.glosa.DownloadArquivo.RealizarDownload;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import java.io.IOException;
 
-public class ObterURL {
+public class RealizarDownload {
 
     private acoes acao = new acoes();
-    private RealizarDownload baixar = new RealizarDownload();
+    private Download baixar = new Download();
 
     @Test
     public void navegar() throws IOException {
@@ -17,17 +16,18 @@ public class ObterURL {
 
         while(acao.existeElemeto(By.xpath("//*[@id='list-arquivo']/div/a["+cont+"]"))){
 
+            //Clicar para abrir pagina que arquivo está
             acao.clicar(By.xpath("//*[@id='list-arquivo']/div/a["+cont+"]"));
 
             //Obtem os dados para nomear o arquivo e realizar o download
             String nomeArquivo = acao.obterTexto(By.xpath("//*[@id='list-arquivo']/div/ul/li/a"));
             String url = acao.obterURL(By.xpath("//*[@id='list-arquivo']/div/ul/li/a"));
 
-            //Realiza o Download dos arquivos
+            //Realiza o Download do arquivo
             baixar.downloadAR(url, nomeArquivo);
             System.out.println("Download do Arquivo: "+ nomeArquivo);
 
-            //voltar
+            //clicar em voltar voltar
             acao.clicar(By.xpath("//*[@id=\"list-arquivo\"]/a"));
             cont++;
         }

@@ -1,20 +1,17 @@
-package br.com.zg.glosa.DownloadArquivo;
+package br.com.zg.glosa.jobs;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;
 
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-public class RealizarDownload {
+public class Download {
 
    public void downloadAR(String url, String nomeArquivo) throws IOException {
 
       URL RecebeUrl = new URL(url);
 
-      String destino = "arquivos\\"+nomeArquivo;
+      String destino = "arquivos\\" + nomeArquivo;
 
       InputStream is = RecebeUrl.openStream();
       FileOutputStream fos = new FileOutputStream(destino);

@@ -1,1 +1,175 @@
-<p>guias-conciliadas works!</p>
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0 text-dark">Ordens Conciliadas</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item active">Ordens Conciliadas</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+
+<section class="content">
+    <div class="container-fluid">
+        <div class="card">
+            <!-- <div class="card-header">
+              <h3 class="card-title">DataTable with default features</h3>
+            </div> -->
+            <!-- /.card-header -->
+            <div class="card-body">
+                <div id="example1_wrapper" class="dataTables_wrapper dt-bootstrap4">
+                    <!-- <div class="row">
+                        <div class="col-sm-12 col-md-6">
+                            <div class="dataTables_length" id="example1_length"><label>Show <select
+                                        name="example1_length" aria-controls="example1"
+                                        class="custom-select custom-select-sm form-control form-control-sm">
+                                        <option value="10">10</option>
+                                        <option value="25">25</option>
+                                        <option value="50">50</option>
+                                        <option value="100">100</option>
+                                    </select> entries</label></div>
+                        </div>
+                        <div class="col-sm-12 col-md-6">
+                            <div id="example1_filter" class="dataTables_filter"><label>Search:<input type="search"
+                                        class="form-control form-control-sm" placeholder=""
+                                        aria-controls="example1"></label></div>
+                        </div>
+                    </div> -->
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <table id="example1" class="table table-bordered table-striped dataTable" role="grid"
+                                aria-describedby="example1_info">
+                                <thead>
+                                    <tr role="row">
+                                        <th class="text-center">Nº Guia</th>
+                                        <th class="text-center">Data Faturamento</th>
+                                        <th class="text-center">Data pagamento</th>
+                                        <th class="text-center">Valor Guia</th>
+                                        <th class="text-center">Valor Pago</th>
+                                        <th class="text-center">Valor Glosa</th>
+                                        <th class="text-center">Ações</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr role="row" class="odd">
+                                        <td class="text-center">0000001</td>
+                                        <td class="text-center">01/01/2020</td>
+                                        <td class="text-center">16/02/2020</td>
+                                        <td class="text-center">R$ 90,00</td>
+                                        <td class="text-center">R$ 60,00</td>
+                                        <td class="text-center">R$ 60,00</td>
+                                        <td style="text-align: center;"><a data-toggle="modal" data-target="#modal-lg"><i class="nav-icon fas fa-search"></i></a></td>
+                                    </tr>
+                                    <tr role="row" class="even">
+                                        <td class="text-center">0000002</td>
+                                        <td class="text-center">01/01/2020</td>
+                                        <td class="text-center">16/02/2020</td>
+                                        <td class="text-center">R$ 90,00</td>
+                                        <td class="text-center">R$ 60,00</td>
+                                        <td class="text-center">R$ 60,00</td>
+                                        <td style="text-align: center;"><a data-toggle="modal" data-target="#modal-lg"><i class="nav-icon fas fa-search"></i></a></td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <!-- /.card-body -->
+        </div>
+    </div>
+</section>
+
+
+<div class="modal fade" id="modal-lg" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Detalhes do convênio - 0000001</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-sm-4">
+                      <!-- text input -->
+                      <div class="form-group">
+                        <label>Convênio</label>
+                        <input type="text" class="form-control" placeholder="0000001">
+                      </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <!-- text input -->
+                        <div class="form-group">
+                          <label>Data Pagamento</label>
+                          <input type="text" class="form-control" placeholder="16/02/2020">
+                        </div>
+                      </div>
+                      <div class="col-sm-4">
+                        <!-- text input -->
+                        <div class="form-group">
+                          <label>Beneficiário</label>
+                          <input type="text" class="form-control" placeholder="Pedro Ribeiro">
+                        </div>
+                      </div>
+                  </div>
+
+                  <h5>Produtos</h5>
+
+                  <div class="row">
+                    <div class="col-sm-12">
+                        <table id="example1" class="table table-bordered table-striped dataTable" role="grid"
+                            aria-describedby="example1_info">
+                            <thead>
+                                <tr role="row">
+                                    <th class="text-center">Produto</th>
+                                    <th class="text-center">Valor Apresentado</th>
+                                    <th class="text-center">Valor Pago</th>
+                                    <th class="text-center">Valor Glosa</th>
+                                    <th class="text-center">Descrição</th>
+                                    <th class="text-center">Motivo</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr role="row" class="odd">
+                                    <td>Agulha 2 ML</td>
+                                    <td>R$ 90,00</td>
+                                    <td>R$ 60,00</td>
+                                    <td>R$ 60,00</td>
+                                    <td> Valor não foi aceito</td>
+                                    <td> Acima do valor de mercado</td>
+                                </tr>
+                                <tr role="row" class="even">
+                                    <td>Agulha 2 ML</td>
+                                    <td>R$ 90,00</td>
+                                    <td>R$ 60,00</td>
+                                    <td>R$ 60,00</td>
+                                    <td> Valor não foi aceito</td>
+                                    <td> Acima do valor de mercado</td>
+                                </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+            <!-- <div class="modal-footer justify-content-between">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div> -->
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>

@@ -1,6 +1,8 @@
 package br.com.zg.glosa.controler;
 
+import br.com.zg.glosa.jobs.InsercaoArquivosJob;
 import br.com.zg.glosa.model.Conciliacao;
+import br.com.zg.glosa.service.GuiaService;
 import br.com.zg.glosa.service.IConciliacaoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -12,26 +14,32 @@ import java.util.List;
 public class ConciliacaoController {
 
     @Autowired
-    private
-    IConciliacaoService conciliacaoRepository;
+    private IConciliacaoService conciliacaoRepository;
 
-    @PostMapping("/conciliacao")
+    @Autowired
+    private InsercaoArquivosJob insercaoArquivosJob;
+
+    @Autowired
+    private GuiaService guiaService;
+
+    @PostMapping("")
     public boolean adicionarConciliacao(@RequestBody Conciliacao conciliacao) {
         return conciliacaoRepository.adicionarConciliacao(conciliacao);
     }
 
-    @DeleteMapping("/conciliacao/numeroGuia")
+    @DeleteMapping("/numeroGuia")
     public void deletarConciliacao(Long numeroGuia) {
         List<Conciliacao> conciliacoesExcluir = conciliacaoRepository.carregarConciliacaoPorNumeroGuia(numeroGuia);
         conciliacaoRepository.excluirConciliacao(conciliacoesExcluir);
     }
 
-    @GetMapping("/conciliacao")
+    @GetMapping("")
     public List<Conciliacao> listarTodasConciliacoes() {
+        guiaService.consultarGuia();
         return conciliacaoRepository.listarTodasConciliacaoes();
     }
 
-    @GetMapping("/conciliacao/{numeroGuia}")
+    @GetMapping("/{numeroGuia}")
     public List<Conciliacao> carregarConciliacaoPorNumeroGuia(@PathVariable("numeroGuia") Long numeroGuia) {
         return conciliacaoRepository.carregarConciliacaoPorNumeroGuia(numeroGuia);
     }
@@ -41,9 +49,14 @@ public class ConciliacaoController {
 //        return conciliacaoRepository.listarConcilicaoesPorDataPagamento(dataPagamento);
 //    }
 
-    @GetMapping("/conciliacao/{ngPrest}")
+    @GetMapping("/{ngPrest}")
     public List<Conciliacao> listarConcilicaoesPorNgPrest(@PathVariable("ngPrest") Long ngPrest) {
         return conciliacaoRepository.listarConcilicaoesPorNgPrest(ngPrest);
+    }
+
+    @GetMapping("/teste")
+    public void teste() {
+        insercaoArquivosJob.tratarDadosArquivos();
     }
 
 }

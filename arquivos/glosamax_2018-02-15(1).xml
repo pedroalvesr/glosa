@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?><data><row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2017-11-07 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340054172725</numero_protocolo>
+  <matricula>787ad577ba2c7dfd509746c5877ece9b</matricula>
+  <nome>MARCOS</nome>
+  <numero_guia>24000000000610855350</numero_guia>
+  <ng_prest>779828148</ng_prest>
+  <senha_guia>EAVEML4</senha_guia>
+  <codigo_produto>40901360</codigo_produto>
+  <descricao_produto>DOPPLER COLOR V.CERV ART BILAT(CAROTID E VERTEBR)</descricao_produto>
+  <valor_apresentado>110.3700</valor_apresentado>
+  <valor_pago>82.0500</valor_pago>
+  <valor_glosa>28.3200</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row><row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>70019380</codigo_produto>
+  <descricao_produto>ELETRODO</descricao_produto>
+  <valor_apresentado>48.1400</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>48.1400</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>ce69b5713ab658ed526aca824ef400b3</matricula>
+  <nome>REILLY</nome>
+  <numero_guia>13000000000004126067</numero_guia>
+  <ng_prest>43770071</ng_prest>
+  <senha_guia>E2Q7AR6</senha_guia>
+  <codigo_produto>29127</codigo_produto>
+  <descricao_produto>SERINGA DESCARTAVEL 3ML BICO S ROSCA</descricao_produto>
+  <valor_apresentado>11.5600</valor_apresentado>
+  <valor_pago>10.3200</valor_pago>
+  <valor_glosa>1.2400</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70774226</codigo_produto>
+  <descricao_produto>CAMPO OPERATORIO ALVA</descricao_produto>
+  <valor_apresentado>10.7400</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>10.7400</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70015368</codigo_produto>
+  <descricao_produto>SISTEMAS DE INJECAO AGULHA DESCARTAVEL</descricao_produto>
+  <valor_apresentado>7.6500</valor_apresentado>
+  <valor_pago>6.0300</valor_pago>
+  <valor_glosa>1.6200</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>ce69b5713ab658ed526aca824ef400b3</matricula>
+  <nome>REILLY</nome>
+  <numero_guia>13000000000004126067</numero_guia>
+  <ng_prest>43770071</ng_prest>
+  <senha_guia>E2Q7AR6</senha_guia>
+  <codigo_produto>45652</codigo_produto>
+  <descricao_produto>COMPRESSA DE GAZE 13FIOS 75X75 PCTE 10UND ESTERIL</descricao_produto>
+  <valor_apresentado>1.0900</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>1.0900</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>44552</codigo_produto>
+  <descricao_produto>SERINGA DESCCARTAVEL 5ML C BICO ROSCA BD</descricao_produto>
+  <valor_apresentado>1.9600</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>1.9600</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>70705348</codigo_produto>
+  <descricao_produto>SISTEMAS DE INJECAO SERINGA BD PLASTIPAK SEM AGULHA</descricao_produto>
+  <valor_apresentado>9.3300</valor_apresentado>
+  <valor_pago>7.3500</valor_pago>
+  <valor_glosa>1.9800</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>15068</codigo_produto>
+  <descricao_produto>EXTENSOR DE ALTA PRESSAO LPJG120H</descricao_produto>
+  <valor_apresentado>186.7700</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>186.7700</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>44552</codigo_produto>
+  <descricao_produto>SERINGA DESCCARTAVEL 5ML C BICO ROSCA BD</descricao_produto>
+  <valor_apresentado>0.9800</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>0.9800</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>ce69b5713ab658ed526aca824ef400b3</matricula>
+  <nome>REILLY</nome>
+  <numero_guia>13000000000004126067</numero_guia>
+  <ng_prest>43770071</ng_prest>
+  <senha_guia>E2Q7AR6</senha_guia>
+  <codigo_produto>45652</codigo_produto>
+  <descricao_produto>COMPRESSA DE GAZE 13FIOS 75X75 PCTE 10UND ESTERIL</descricao_produto>
+  <valor_apresentado>1.0900</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>1.0900</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>40812049</codigo_produto>
+  <descricao_produto>ANGIOGRAFIA P/CATET SELETIVO RAMO PRIMARIO-P/VASO</descricao_produto>
+  <valor_apresentado>393.5400</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>393.5400</valor_glosa>
+  <descricao_motivo>SERVICO DO TIPO CIRURGICO E INVASIVO. EQUIPE MEDICA NAO INFORMADA NA GUIA</descricao_motivo>
+  <codigo_motivo>1310</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>45652</codigo_produto>
+  <descricao_produto>COMPRESSA DE GAZE 13FIOS 75X75 PCTE 10UND ESTERIL</descricao_produto>
+  <valor_apresentado>1.0900</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>1.0900</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>45652</codigo_produto>
+  <descricao_produto>COMPRESSA DE GAZE 13FIOS 75X75 PCTE 10UND ESTERIL</descricao_produto>
+  <valor_apresentado>1.0900</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>1.0900</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70878579</codigo_produto>
+  <descricao_produto>EQUIPO MACRO GOTAS</descricao_produto>
+  <valor_apresentado>48.1600</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>48.1600</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70878579</codigo_produto>
+  <descricao_produto>EQUIPO MACRO GOTAS</descricao_produto>
+  <valor_apresentado>96.3200</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>96.3200</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>40812049</codigo_produto>
+  <descricao_produto>ANGIOGRAFIA P/CATET SELETIVO RAMO PRIMARIO-P/VASO</descricao_produto>
+  <valor_apresentado>393.5400</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>393.5400</valor_glosa>
+  <descricao_motivo>SERVICO DO TIPO CIRURGICO E INVASIVO. EQUIPE MEDICA NAO INFORMADA NA GUIA</descricao_motivo>
+  <codigo_motivo>1310</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>44552</codigo_produto>
+  <descricao_produto>SERINGA DESCCARTAVEL 5ML C BICO ROSCA BD</descricao_produto>
+  <valor_apresentado>0.9800</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>0.9800</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>70139032</codigo_produto>
+  <descricao_produto>TERAPIA INTRAVENOSA CATETER PERIFERICO PTFE</descricao_produto>
+  <valor_apresentado>24.9200</valor_apresentado>
+  <valor_pago>19.6200</valor_pago>
+  <valor_glosa>5.3000</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>18004</codigo_produto>
+  <descricao_produto>AGULHA PARA PUNCAO DE PORTOCATH HUBBER REF 19G X19MM</descricao_produto>
+  <valor_apresentado>150.6300</valor_apresentado>
+  <valor_pago>38.8300</valor_pago>
+  <valor_glosa>111.8000</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>6370047</codigo_produto>
+  <descricao_produto>CATETER POCULOS</descricao_produto>
+  <valor_apresentado>20.1800</valor_apresentado>
+  <valor_pago>1.6100</valor_pago>
+  <valor_glosa>18.5700</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70015368</codigo_produto>
+  <descricao_produto>SISTEMAS DE INJECAO AGULHA DESCARTAVEL</descricao_produto>
+  <valor_apresentado>2.5500</valor_apresentado>
+  <valor_pago>2.0100</valor_pago>
+  <valor_glosa>0.5400</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70227101</codigo_produto>
+  <descricao_produto>ESPARADRAPO</descricao_produto>
+  <valor_apresentado>6.9900</valor_apresentado>
+  <valor_pago>2.7000</valor_pago>
+  <valor_glosa>4.2900</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>40812049</codigo_produto>
+  <descricao_produto>ANGIOGRAFIA P/CATET SELETIVO RAMO PRIMARIO-P/VASO</descricao_produto>
+  <valor_apresentado>393.5400</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>393.5400</valor_glosa>
+  <descricao_motivo>SERVICO DO TIPO CIRURGICO E INVASIVO. EQUIPE MEDICA NAO INFORMADA NA GUIA</descricao_motivo>
+  <codigo_motivo>1310</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>45652</codigo_produto>
+  <descricao_produto>COMPRESSA DE GAZE 13FIOS 75X75 PCTE 10UND ESTERIL</descricao_produto>
+  <valor_apresentado>4.3500</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>4.3500</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>70705348</codigo_produto>
+  <descricao_produto>SISTEMAS DE INJECAO SERINGA BD PLASTIPAK SEM AGULHA</descricao_produto>
+  <valor_apresentado>9.3300</valor_apresentado>
+  <valor_pago>7.3500</valor_pago>
+  <valor_glosa>1.9800</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70014280</codigo_produto>
+  <descricao_produto>SISTEMAS DE INJECAO AGULHA DESCARTAVEL</descricao_produto>
+  <valor_apresentado>16.2900</valor_apresentado>
+  <valor_pago>12.8700</valor_pago>
+  <valor_glosa>3.4200</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>50905</codigo_produto>
+  <descricao_produto>SONDA FOLEY 2 VIAS N 14</descricao_produto>
+  <valor_apresentado>88.9000</valor_apresentado>
+  <valor_pago>26.4600</valor_pago>
+  <valor_glosa>62.4400</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>26967</codigo_produto>
+  <descricao_produto>EXTENSAO BOMBA</descricao_produto>
+  <valor_apresentado>145.0000</valor_apresentado>
+  <valor_pago>83.3400</valor_pago>
+  <valor_glosa>61.6600</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>15068</codigo_produto>
+  <descricao_produto>EXTENSOR DE ALTA PRESSAO LPJG120H</descricao_produto>
+  <valor_apresentado>186.7700</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>186.7700</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>70361010</codigo_produto>
+  <descricao_produto>LAMINA BISTURI</descricao_produto>
+  <valor_apresentado>3.0200</valor_apresentado>
+  <valor_pago>2.2000</valor_pago>
+  <valor_glosa>0.8200</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>70014280</codigo_produto>
+  <descricao_produto>SISTEMAS DE INJECAO AGULHA DESCARTAVEL</descricao_produto>
+  <valor_apresentado>1.4800</valor_apresentado>
+  <valor_pago>1.1700</valor_pago>
+  <valor_glosa>0.3100</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>53779</codigo_produto>
+  <descricao_produto>CORDA GUIA 035 CONVENCIONAL OU HIDROFILICA</descricao_produto>
+  <valor_apresentado>954.8400</valor_apresentado>
+  <valor_pago>12.3000</valor_pago>
+  <valor_glosa>942.5400</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>45652</codigo_produto>
+  <descricao_produto>COMPRESSA DE GAZE 13FIOS 75X75 PCTE 10UND ESTERIL</descricao_produto>
+  <valor_apresentado>2.1800</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>2.1800</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>26967</codigo_produto>
+  <descricao_produto>EXTENSAO BOMBA</descricao_produto>
+  <valor_apresentado>145.0000</valor_apresentado>
+  <valor_pago>83.3400</valor_pago>
+  <valor_glosa>61.6600</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>45652</codigo_produto>
+  <descricao_produto>COMPRESSA DE GAZE 13FIOS 75X75 PCTE 10UND ESTERIL</descricao_produto>
+  <valor_apresentado>1.0900</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>1.0900</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70705348</codigo_produto>
+  <descricao_produto>SISTEMAS DE INJECAO SERINGA BD PLASTIPAK SEM AGULHA</descricao_produto>
+  <valor_apresentado>28.0000</valor_apresentado>
+  <valor_pago>22.0500</valor_pago>
+  <valor_glosa>5.9500</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>ce69b5713ab658ed526aca824ef400b3</matricula>
+  <nome>REILLY</nome>
+  <numero_guia>13000000000004126067</numero_guia>
+  <ng_prest>43770071</ng_prest>
+  <senha_guia>E2Q7AR6</senha_guia>
+  <codigo_produto>70878579</codigo_produto>
+  <descricao_produto>EQUIPO MACRO GOTAS</descricao_produto>
+  <valor_apresentado>24.0800</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>24.0800</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>40813746</codigo_produto>
+  <descricao_produto>EMBOLIZ ARTERIA UTERINA P/TRAT MIOMA OU OUTRAS SIT</descricao_produto>
+  <valor_apresentado>79.5700</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>79.5700</valor_glosa>
+  <descricao_motivo>GRAU DE PARTICIPACAO DE AUXILIAR INCOMPATIVEL COM PROCEDIMENTO COBRADO</descricao_motivo>
+  <codigo_motivo>2610</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>40813746</codigo_produto>
+  <descricao_produto>EMBOLIZ ARTERIA UTERINA P/TRAT MIOMA OU OUTRAS SIT</descricao_produto>
+  <valor_apresentado>79.5700</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>79.5700</valor_glosa>
+  <descricao_motivo>GRAU DE PARTICIPACAO DE AUXILIAR INCOMPATIVEL COM PROCEDIMENTO COBRADO</descricao_motivo>
+  <codigo_motivo>2610</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>60961</codigo_produto>
+  <descricao_produto>CLOREXIDINA ALCOOLICA 05 FR100ML SOLUCAO DE USO TOPICO</descricao_produto>
+  <valor_apresentado>0.0800</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>0.0800</valor_glosa>
+  <descricao_motivo>MEDICAMENTO INVALIDO</descricao_motivo>
+  <codigo_motivo>2101</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>45652</codigo_produto>
+  <descricao_produto>COMPRESSA DE GAZE 13FIOS 75X75 PCTE 10UND ESTERIL</descricao_produto>
+  <valor_apresentado>2.1800</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>2.1800</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70849250</codigo_produto>
+  <descricao_produto>LUVA CIRURGICA</descricao_produto>
+  <valor_apresentado>26.6700</valor_apresentado>
+  <valor_pago>5.4600</valor_pago>
+  <valor_glosa>21.2100</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70361010</codigo_produto>
+  <descricao_produto>LAMINA BISTURI</descricao_produto>
+  <valor_apresentado>3.0200</valor_apresentado>
+  <valor_pago>2.2000</valor_pago>
+  <valor_glosa>0.8200</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70139032</codigo_produto>
+  <descricao_produto>TERAPIA INTRAVENOSA CATETER PERIFERICO PTFE</descricao_produto>
+  <valor_apresentado>24.9200</valor_apresentado>
+  <valor_pago>19.6200</valor_pago>
+  <valor_glosa>5.3000</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70034419</codigo_produto>
+  <descricao_produto>ATADURA</descricao_produto>
+  <valor_apresentado>22.6300</valor_apresentado>
+  <valor_pago>8.3900</valor_pago>
+  <valor_glosa>14.2400</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>53779</codigo_produto>
+  <descricao_produto>CORDA GUIA 035 CONVENCIONAL OU HIDROFILICA</descricao_produto>
+  <valor_apresentado>1909.6800</valor_apresentado>
+  <valor_pago>24.6000</valor_pago>
+  <valor_glosa>1885.0800</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>61099</codigo_produto>
+  <descricao_produto>COLETOR DE URINA SISTEMA FECHADO</descricao_produto>
+  <valor_apresentado>113.3900</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>113.3900</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>29125</codigo_produto>
+  <descricao_produto>SERINGA DESCARTAVEL 3ML C BICO ROSCA BD COM AGULHA</descricao_produto>
+  <valor_apresentado>23.1200</valor_apresentado>
+  <valor_pago>2.1600</valor_pago>
+  <valor_glosa>20.9600</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>70762414</codigo_produto>
+  <descricao_produto>TORNEIRINHA 3 VIAS</descricao_produto>
+  <valor_apresentado>190.5000</valor_apresentado>
+  <valor_pago>25.4400</valor_pago>
+  <valor_glosa>165.0600</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>70704325</codigo_produto>
+  <descricao_produto>SISTEMAS DE INJECAO SERINGA BD PLASTIPAK COM AGULHA</descricao_produto>
+  <valor_apresentado>4.7500</valor_apresentado>
+  <valor_pago>3.7400</valor_pago>
+  <valor_glosa>1.0100</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>70015368</codigo_produto>
+  <descricao_produto>SISTEMAS DE INJECAO AGULHA DESCARTAVEL</descricao_produto>
+  <valor_apresentado>2.5500</valor_apresentado>
+  <valor_pago>2.0100</valor_pago>
+  <valor_glosa>0.5400</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70227101</codigo_produto>
+  <descricao_produto>ESPARADRAPO</descricao_produto>
+  <valor_apresentado>6.9900</valor_apresentado>
+  <valor_pago>2.7000</valor_pago>
+  <valor_glosa>4.2900</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70705348</codigo_produto>
+  <descricao_produto>SISTEMAS DE INJECAO SERINGA BD PLASTIPAK SEM AGULHA</descricao_produto>
+  <valor_apresentado>37.3300</valor_apresentado>
+  <valor_pago>29.4000</valor_pago>
+  <valor_glosa>7.9300</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>4697</codigo_produto>
+  <descricao_produto>ALCOOL 70 FR 1000ML</descricao_produto>
+  <valor_apresentado>0.4100</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>0.4100</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>40812030</codigo_produto>
+  <descricao_produto>ANGIOGRAFIA P/CATET NAO SELETIVO DE GRANDE VASO</descricao_produto>
+  <valor_apresentado>869.2400</valor_apresentado>
+  <valor_pago>446.5900</valor_pago>
+  <valor_glosa>422.6500</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70704325</codigo_produto>
+  <descricao_produto>SISTEMAS DE INJECAO SERINGA BD PLASTIPAK COM AGULHA</descricao_produto>
+  <valor_apresentado>47.5000</valor_apresentado>
+  <valor_pago>37.4000</valor_pago>
+  <valor_glosa>10.1000</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70157871</codigo_produto>
+  <descricao_produto>COLETOR URINA ABERTA</descricao_produto>
+  <valor_apresentado>3.0900</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>3.0900</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>40812049</codigo_produto>
+  <descricao_produto>ANGIOGRAFIA P/CATET SELETIVO RAMO PRIMARIO-P/VASO</descricao_produto>
+  <valor_apresentado>393.5400</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>393.5400</valor_glosa>
+  <descricao_motivo>SERVICO DO TIPO CIRURGICO E INVASIVO. EQUIPE MEDICA NAO INFORMADA NA GUIA</descricao_motivo>
+  <codigo_motivo>1310</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>5f04df7dd6ebcb316c978fd024787d83</matricula>
+  <nome>DAMIANA</nome>
+  <numero_guia>13000000000004126066</numero_guia>
+  <ng_prest>43691463</ng_prest>
+  <senha_guia>E26JY38</senha_guia>
+  <codigo_produto>70774226</codigo_produto>
+  <descricao_produto>CAMPO OPERATORIO ALVA</descricao_produto>
+  <valor_apresentado>10.7400</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>10.7400</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70019380</codigo_produto>
+  <descricao_produto>ELETRODO</descricao_produto>
+  <valor_apresentado>48.1400</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>48.1400</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>45652</codigo_produto>
+  <descricao_produto>COMPRESSA DE GAZE 13FIOS 75X75 PCTE 10UND ESTERIL</descricao_produto>
+  <valor_apresentado>1.0900</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>1.0900</valor_glosa>
+  <descricao_motivo>MATERIAL INVALIDO</descricao_motivo>
+  <codigo_motivo>2001</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70223769</codigo_produto>
+  <descricao_produto>EQUIPO POLIFIX 2 VIAS</descricao_produto>
+  <valor_apresentado>99.5200</valor_apresentado>
+  <valor_pago>69.8600</valor_pago>
+  <valor_glosa>29.6600</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70705313</codigo_produto>
+  <descricao_produto>SERINGA 5 ML</descricao_produto>
+  <valor_apresentado>2.3500</valor_apresentado>
+  <valor_pago>1.8500</valor_pago>
+  <valor_glosa>0.5000</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>70762414</codigo_produto>
+  <descricao_produto>TORNEIRINHA 3 VIAS</descricao_produto>
+  <valor_apresentado>247.0700</valor_apresentado>
+  <valor_pago>76.3200</valor_pago>
+  <valor_glosa>170.7500</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056344612</numero_protocolo>
+  <matricula>6c3bc7d98c4a029ee2efd72b3e0542c3</matricula>
+  <nome>MARIVONE</nome>
+  <numero_guia>13000000000004128117</numero_guia>
+  <ng_prest>43425029</ng_prest>
+  <senha_guia>ECTBXV3</senha_guia>
+  <codigo_produto>4697</codigo_produto>
+  <descricao_produto>ALCOOL 70 FR 1000ML</descricao_produto>
+  <valor_apresentado>0.4100</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>0.4100</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>ce69b5713ab658ed526aca824ef400b3</matricula>
+  <nome>REILLY</nome>
+  <numero_guia>13000000000004126067</numero_guia>
+  <ng_prest>43770071</ng_prest>
+  <senha_guia>E2Q7AR6</senha_guia>
+  <codigo_produto>70139032</codigo_produto>
+  <descricao_produto>TERAPIA INTRAVENOSA CATETER PERIFERICO PTFE</descricao_produto>
+  <valor_apresentado>24.9200</valor_apresentado>
+  <valor_pago>19.6200</valor_pago>
+  <valor_glosa>5.3000</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-02-15 00:00:00.000000</data_pagamento>
+  <numero_protocolo>330056327347</numero_protocolo>
+  <matricula>ce69b5713ab658ed526aca824ef400b3</matricula>
+  <nome>REILLY</nome>
+  <numero_guia>13000000000004126067</numero_guia>
+  <ng_prest>43770071</ng_prest>
+  <senha_guia>E2Q7AR6</senha_guia>
+  <codigo_produto>70014280</codigo_produto>
+  <descricao_produto>SISTEMAS DE INJECAO AGULHA DESCARTAVEL</descricao_produto>
+  <valor_apresentado>1.4800</valor_apresentado>
+  <valor_pago>1.1700</valor_pago>
+  <valor_glosa>0.3100</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+</data>

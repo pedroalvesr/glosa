@@ -20,7 +20,7 @@ public class Conciliacao implements Serializable {
     private Long numeroProtocolo;
     private String matricula;
     private String nome;
-    private Long numeroGuia;
+    private String numeroGuia;
     private Long ngPrest;
     private String senhaGuia;
     private Long codigoProduto;
@@ -79,11 +79,11 @@ public class Conciliacao implements Serializable {
         this.nome = nome;
     }
 
-    public Long getNumeroGuia() {
+    public String getNumeroGuia() {
         return numeroGuia;
     }
 
-    public void setNumeroGuia(Long numeroGuia) {
+    public void setNumeroGuia(String numeroGuia) {
         this.numeroGuia = numeroGuia;
     }
 

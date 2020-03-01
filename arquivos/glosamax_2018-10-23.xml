@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><data><row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2017-11-07 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340054172725</numero_protocolo>
+  <matricula>787ad577ba2c7dfd509746c5877ece9b</matricula>
+  <nome>MARCOS</nome>
+  <numero_guia>24000000000610855350</numero_guia>
+  <ng_prest>779828148</ng_prest>
+  <senha_guia>EAVEML4</senha_guia>
+  <codigo_produto>40901360</codigo_produto>
+  <descricao_produto>DOPPLER COLOR V.CERV ART BILAT(CAROTID E VERTEBR)</descricao_produto>
+  <valor_apresentado>110.3700</valor_apresentado>
+  <valor_pago>82.0500</valor_pago>
+  <valor_glosa>28.3200</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row><row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-10-23 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340061031005</numero_protocolo>
+  <matricula>a79ddabcf692c03f6b8f47f0eaaa6b1b</matricula>
+  <nome>RACHEL</nome>
+  <numero_guia>24000000000636783717</numero_guia>
+  <ng_prest>821637865</ng_prest>
+  <senha_guia></senha_guia>
+  <codigo_produto>63586</codigo_produto>
+  <descricao_produto>DERSANI FR100ML - LOCAO OLEOSA TOPICA</descricao_produto>
+  <valor_apresentado>18.1300</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>18.1300</valor_glosa>
+  <descricao_motivo>MEDICAMENTO INVALIDO</descricao_motivo>
+  <codigo_motivo>2101</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-10-23 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340061054720</numero_protocolo>
+  <matricula>2204ab388a623e45ce2ddd876dcc2540</matricula>
+  <nome>ROBERTO</nome>
+  <numero_guia>24000000000636783796</numero_guia>
+  <ng_prest>816501521</ng_prest>
+  <senha_guia></senha_guia>
+  <codigo_produto>70849250</codigo_produto>
+  <descricao_produto>LUVA CIRURGICA</descricao_produto>
+  <valor_apresentado>9.0000</valor_apresentado>
+  <valor_pago>1.8200</valor_pago>
+  <valor_glosa>7.1800</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-10-23 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340061054720</numero_protocolo>
+  <matricula>2204ab388a623e45ce2ddd876dcc2540</matricula>
+  <nome>ROBERTO</nome>
+  <numero_guia>24000000000636783798</numero_guia>
+  <ng_prest>816593290</ng_prest>
+  <senha_guia></senha_guia>
+  <codigo_produto>63586</codigo_produto>
+  <descricao_produto>DERSANI FR100ML - LOCAO OLEOSA TOPICA</descricao_produto>
+  <valor_apresentado>18.1300</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>18.1300</valor_glosa>
+  <descricao_motivo>MEDICAMENTO INVALIDO</descricao_motivo>
+  <codigo_motivo>2101</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-10-23 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340061059912</numero_protocolo>
+  <matricula>d81b9ee0aeeed797aa5f469a248dce92</matricula>
+  <nome>SEVERINO</nome>
+  <numero_guia>24000000000636783839</numero_guia>
+  <ng_prest>818778584</ng_prest>
+  <senha_guia></senha_guia>
+  <codigo_produto>40101010</codigo_produto>
+  <descricao_produto>ECG CONVENCIONAL DE ATE 12 DERIVACOES</descricao_produto>
+  <valor_apresentado>20.3500</valor_apresentado>
+  <valor_pago>16.0200</valor_pago>
+  <valor_glosa>4.3300</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-10-23 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340061054720</numero_protocolo>
+  <matricula>2204ab388a623e45ce2ddd876dcc2540</matricula>
+  <nome>ROBERTO</nome>
+  <numero_guia>24000000000636783796</numero_guia>
+  <ng_prest>816501521</ng_prest>
+  <senha_guia></senha_guia>
+  <codigo_produto>63586</codigo_produto>
+  <descricao_produto>DERSANI FR100ML - LOCAO OLEOSA TOPICA</descricao_produto>
+  <valor_apresentado>18.1300</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>18.1300</valor_glosa>
+  <descricao_motivo>MEDICAMENTO INVALIDO</descricao_motivo>
+  <codigo_motivo>2101</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-10-23 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340061031005</numero_protocolo>
+  <matricula>a79ddabcf692c03f6b8f47f0eaaa6b1b</matricula>
+  <nome>RACHEL</nome>
+  <numero_guia>24000000000636783717</numero_guia>
+  <ng_prest>821637865</ng_prest>
+  <senha_guia></senha_guia>
+  <codigo_produto>60666</codigo_produto>
+  <descricao_produto>CLOREXIDINA AQUOSA 0,2% FR100ML - SOLUCAO DE USO TOPICO</descricao_produto>
+  <valor_apresentado>2.9900</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>2.9900</valor_glosa>
+  <descricao_motivo>MEDICAMENTO INVALIDO</descricao_motivo>
+  <codigo_motivo>2101</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-10-23 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340061046318</numero_protocolo>
+  <matricula>12717876b44e710c3cb6a998f6ddcb66</matricula>
+  <nome>JACY</nome>
+  <numero_guia>24000000000636783735</numero_guia>
+  <ng_prest>813027133</ng_prest>
+  <senha_guia></senha_guia>
+  <codigo_produto>40805026</codigo_produto>
+  <descricao_produto>RX - TORAX - 2 INCIDENCIAS</descricao_produto>
+  <valor_apresentado>33.5800</valor_apresentado>
+  <valor_pago>24.2100</valor_pago>
+  <valor_glosa>9.3700</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-10-23 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340061031005</numero_protocolo>
+  <matricula>a79ddabcf692c03f6b8f47f0eaaa6b1b</matricula>
+  <nome>RACHEL</nome>
+  <numero_guia>24000000000636783717</numero_guia>
+  <ng_prest>821637865</ng_prest>
+  <senha_guia></senha_guia>
+  <codigo_produto>70849250</codigo_produto>
+  <descricao_produto>LUVA CIRURGICA</descricao_produto>
+  <valor_apresentado>9.0000</valor_apresentado>
+  <valor_pago>1.8200</valor_pago>
+  <valor_glosa>7.1800</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-10-23 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340061054720</numero_protocolo>
+  <matricula>2204ab388a623e45ce2ddd876dcc2540</matricula>
+  <nome>ROBERTO</nome>
+  <numero_guia>24000000000636783796</numero_guia>
+  <ng_prest>816501521</ng_prest>
+  <senha_guia></senha_guia>
+  <codigo_produto>70849250</codigo_produto>
+  <descricao_produto>LUVA CIRURGICA</descricao_produto>
+  <valor_apresentado>9.0000</valor_apresentado>
+  <valor_pago>1.8200</valor_pago>
+  <valor_glosa>7.1800</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-10-23 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340061054720</numero_protocolo>
+  <matricula>2204ab388a623e45ce2ddd876dcc2540</matricula>
+  <nome>ROBERTO</nome>
+  <numero_guia>24000000000636783796</numero_guia>
+  <ng_prest>816501521</ng_prest>
+  <senha_guia></senha_guia>
+  <codigo_produto>60666</codigo_produto>
+  <descricao_produto>CLOREXIDINA AQUOSA 0,2% FR100ML - SOLUCAO DE USO TOPICO</descricao_produto>
+  <valor_apresentado>2.9900</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>2.9900</valor_glosa>
+  <descricao_motivo>MEDICAMENTO INVALIDO</descricao_motivo>
+  <codigo_motivo>2101</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-10-23 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340061054720</numero_protocolo>
+  <matricula>2204ab388a623e45ce2ddd876dcc2540</matricula>
+  <nome>ROBERTO</nome>
+  <numero_guia>24000000000636783798</numero_guia>
+  <ng_prest>816593290</ng_prest>
+  <senha_guia></senha_guia>
+  <codigo_produto>70849250</codigo_produto>
+  <descricao_produto>LUVA CIRURGICA</descricao_produto>
+  <valor_apresentado>9.0000</valor_apresentado>
+  <valor_pago>1.8200</valor_pago>
+  <valor_glosa>7.1800</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-10-23 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340061054720</numero_protocolo>
+  <matricula>2204ab388a623e45ce2ddd876dcc2540</matricula>
+  <nome>ROBERTO</nome>
+  <numero_guia>24000000000636783798</numero_guia>
+  <ng_prest>816593290</ng_prest>
+  <senha_guia></senha_guia>
+  <codigo_produto>60666</codigo_produto>
+  <descricao_produto>CLOREXIDINA AQUOSA 0,2% FR100ML - SOLUCAO DE USO TOPICO</descricao_produto>
+  <valor_apresentado>2.9900</valor_apresentado>
+  <valor_pago>0.0000</valor_pago>
+  <valor_glosa>2.9900</valor_glosa>
+  <descricao_motivo>MEDICAMENTO INVALIDO</descricao_motivo>
+  <codigo_motivo>2101</codigo_motivo>
+</row>
+<row>
+  <convenio>Glosa Max</convenio>
+  <data_pagamento>2018-10-23 00:00:00.000000</data_pagamento>
+  <numero_protocolo>340061059912</numero_protocolo>
+  <matricula>addfd4817bc60e3039b27b1a7799a146</matricula>
+  <nome>JOSE</nome>
+  <numero_guia>24000000000636783843</numero_guia>
+  <ng_prest>818878656</ng_prest>
+  <senha_guia></senha_guia>
+  <codigo_produto>40101010</codigo_produto>
+  <descricao_produto>ECG CONVENCIONAL DE ATE 12 DERIVACOES</descricao_produto>
+  <valor_apresentado>20.3500</valor_apresentado>
+  <valor_pago>16.0200</valor_pago>
+  <valor_glosa>4.3300</valor_glosa>
+  <descricao_motivo>VALOR APRESENTADO A MAIOR</descricao_motivo>
+  <codigo_motivo>1705</codigo_motivo>
+</row>
+</data>

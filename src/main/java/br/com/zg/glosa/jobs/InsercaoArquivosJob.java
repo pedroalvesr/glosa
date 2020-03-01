@@ -3,6 +3,7 @@ package br.com.zg.glosa.jobs;
 
 import br.com.zg.glosa.model.Conciliacao;
 import br.com.zg.glosa.model.Guia;
+import br.com.zg.glosa.model.QuitacaoItem;
 import br.com.zg.glosa.service.ConciliacaoService;
 import br.com.zg.glosa.service.GuiaService;
 import br.com.zg.glosa.service.QuitacaoGuiaService;
@@ -75,11 +76,11 @@ public class InsercaoArquivosJob {
     private void inserirDados(List<Conciliacao> conciliacoes) {
 
         for (Conciliacao conciliacao : conciliacoes) {
-            Guia guia = guiaService.pesquisar(conciliacao.getNumeroGuia());
+            Guia guia = guiaService.pesquisar(conciliacao.getNgPrest().toString());
 
             if(guia != null) {
                 quitacaoGuiaService.salvar(guia, conciliacao.getDataPagamento(), conciliacao.getValorPago());
-                quitacaoItemService.salvar(guia, conciliacao.getValorApresentado(), conciliacao.getCodigoMotivo(), conciliacao.getDescricaoMotivo());
+                QuitacaoItem item = quitacaoItemService.salvar(guia, conciliacao.getValorApresentado(), conciliacao.getCodigoMotivo(), conciliacao.getDescricaoMotivo());
             }
 
             conciliacaoService.adicionarConciliacao(conciliacao);

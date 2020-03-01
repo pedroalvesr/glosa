@@ -1,8 +1,6 @@
 package br.com.zg.glosa.model;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
+import javax.persistence.*;
 import java.io.Serializable;
 
 @Entity
@@ -14,6 +12,19 @@ public class Guia implements Serializable {
 
     private String numero;
 
+    private Double valorTotal;
+
+    @ManyToOne
+    @JoinColumn(name = "beneficiario_id")
+    private Beneficiario beneficiario;
+
+    @ManyToOne
+    @JoinColumn(name = "convenio_id")
+    private Convenio convenio;
+
+    @ManyToOne
+    @JoinColumn(name = "prestador_id")
+    private Prestador prestador;
 
     public Long getId() {
         return id;
@@ -29,5 +40,38 @@ public class Guia implements Serializable {
 
     public void setNumero(String numero) {
         this.numero = numero;
+    }
+
+
+    public Double getValorTotal() {
+        return valorTotal;
+    }
+
+    public void setValorTotal(Double valorTotal) {
+        this.valorTotal = valorTotal;
+    }
+
+    public Beneficiario getBeneficiario() {
+        return beneficiario;
+    }
+
+    public void setBeneficiario(Beneficiario beneficiario) {
+        this.beneficiario = beneficiario;
+    }
+
+    public Convenio getConvenio() {
+        return convenio;
+    }
+
+    public void setConvenio(Convenio convenio) {
+        this.convenio = convenio;
+    }
+
+    public Prestador getPrestador() {
+        return prestador;
+    }
+
+    public void setPrestador(Prestador prestador) {
+        this.prestador = prestador;
     }
 }

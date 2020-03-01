@@ -1,7 +1,7 @@
 package br.com.zg.glosa.model;
 
 import javax.persistence.*;
-import java.time.LocalDate;
+import java.util.Date;
 import java.util.List;
 
 @Entity(name = "quitacao_guia")
@@ -15,7 +15,7 @@ public class QuitacaoGuia {
     private Integer version = 0;
 
     @Column(name = "data_pagamento")
-    private LocalDate dataPagamento;
+    private Date dataPagamento;
 
     @OneToMany
     @Column(name = "guia_id")
@@ -40,11 +40,11 @@ public class QuitacaoGuia {
         this.version = version;
     }
 
-    public LocalDate getDataPagamento() {
+    public Date getDataPagamento() {
         return dataPagamento;
     }
 
-    public void setDataPagamento(LocalDate dataPagamento) {
+    public void setDataPagamento(Date dataPagamento) {
         this.dataPagamento = dataPagamento;
     }
 

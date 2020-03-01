@@ -30,8 +30,8 @@ public class AbrirConvenio {
 
     public static void buscarURL(){
         driverWeb.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-        //driverWeb.get("https://glosamax.zeroglosa.com.br/glosamax/arquivo/index");//arquivos xml
+        driverWeb.get("https://glosamax.zeroglosa.com.br/glosamax/arquivo/index");//arquivos xml
         //driverWeb.get("https://glosamin.zeroglosa.com.br/glosamin/arquivo");//arquivos html
-        driverWeb.get("https://pagatudo.zeroglosa.com.br/pagatudo/arquivo/index");//arquivos csv
+        //driverWeb.get("https://pagatudo.zeroglosa.com.br/pagatudo/arquivo/index");//arquivos csv
     }
 }

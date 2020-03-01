@@ -2,12 +2,15 @@ package br.com.zg.glosa.jobs;
 
 import org.junit.Test;
 import org.openqa.selenium.By;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
 import java.io.IOException;
 
+@SpringBootApplication()
 public class RealizarDownload {
 
-    private acoes acao = new acoes();
-    private Download baixar = new Download();
+    Acoes acao = new Acoes();
+    Download baixar = new Download();
 
     @Test
     public void navegar() throws IOException {

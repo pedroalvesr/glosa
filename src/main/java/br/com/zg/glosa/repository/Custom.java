@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 import javax.persistence.EntityManager;
 
 @Repository
-public class Custpm {
+public class Custom {
     @Autowired
     EntityManager entityManager;
 
